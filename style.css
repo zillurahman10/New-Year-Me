@@ -1,3 +1,131 @@
-h1{
-    color:blue
+body{
+    font-family:'Roboto', sans-serif;
+    margin: 0;
 }
+.first-paragraph{
+padding-left: 60%;
+padding-right: 6%;
+padding-top: 20%;
+color:aliceblue;
+
+}
+.first-paragraph{
+    text-align: right;
+}
+h1{
+    font-size: 50px;
+}
+.first-section{
+    background-image: url(images/banner/banner3.png);
+    height:800px;
+    
+}
+.conduct-us-link{
+    text-decoration: none;
+    background-color:white;
+    font-weight: 900;
+    color:rgb(49, 49, 255);
+    padding: 17px 30px;
+    border-radius: 5px;
+}
+.section-about-myself{
+
+    display:flex;
+    background-color: black;
+}
+
+
+
+.myself-sectoin-halfwidth{
+    color:aliceblue;
+    width:50%;
+     padding:5%;
+
+}
+.myself-sectoin-halfwidth-text{
+     padding-top: 100%;
+     padding-left: 200%;
+}
+.my-plans-container{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 5s0vh; 
+  padding: 20%;
+  padding-top: 10px;
+}
+.Myplans-text{
+    text-align: center;
+}
+.watch-gradient{
+    padding-left: 8%;
+}
+
+
+
+.container-to{
+    position: relative;
+    height: 70vh;
+  }
+  
+  .picture-wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .picture-wrap img {
+    width: 100%;
+    height: auto;
+  }
+  
+
+  .picture-wrap:nth-child(2) {
+    top: 1px; 
+    left: 0px; 
+    z-index: 2; 
+  }
+  .overlay-text{
+    position: relative;
+    bottom:300px;
+    left:10%;
+    color: aliceblue;
+
+  }
+
+.overlay-link{
+    text-decoration: none;
+    background-color:white;
+    font-weight: 900;
+    color:rgb(128, 128, 245);
+    padding: 17px 30px;
+    border-radius: 5px;
+  }
+  .footer-div{
+  background-color: black;
+  height: 70vh;
+  display: flex;
+}
+.color-white{
+  color:white;
+  width: 50%;
+  padding-left:10%;
+  
+}
+.subscribe-button{
+  text-decoration: none;
+    background-color:white;
+    font-weight: 900;
+    color:red
+    }
+.subscribe-button{
+
+padding 
+
+: 17px 30px;
+border-radius: 5px;
+}
+
+
+  
+  
